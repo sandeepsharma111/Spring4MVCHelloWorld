@@ -1,4 +1,4 @@
-package com.lti.training;
+package com.sandy.mvc;
 
 import org.springframework.stereotype.Controller;
 import org.springframework.web.bind.annotation.RequestMapping;
